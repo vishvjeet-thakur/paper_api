@@ -4,7 +4,7 @@
   "description": "api to manage files, upload, download, delete , search",
   "main": "file.js",
   "scripts": {
-    "start": "nodemon file.js",
+    "start": "node file.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
